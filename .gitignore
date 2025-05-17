@@ -56,3 +56,4 @@ examples/example_sdl_opengl3/example_sdl_opengl3
 
 bin-int/*
 bin/*
+bin/**/*.lib
